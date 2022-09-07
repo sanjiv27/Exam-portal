@@ -1,0 +1,48 @@
+html{
+    height:100%;
+    padding: 0;
+}
+
+.btn{
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    margin: 5px !important;
+}
+
+input, .alert{
+    margin: 5px !important;
+    width: 85% !important;
+}
+
+.navsel{
+    /* background-color:rgb(43, 83, 216) !important; */
+    color: white !important;
+    text-decoration: none !important;
+
+}
+
+.top-toolbar{
+    padding: 5px;
+    background-color: rgb(40, 72, 177);
+    color: white !important;
+}
+
+.all-content{
+    margin-right: 20px !important;
+    margin-left: 20px !important;
+    padding: 10px;
+}
+
+footer {
+    background-color: rgb(5, 41, 158) !important;
+    color: white;
+    font-family: monospace;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+
+
+

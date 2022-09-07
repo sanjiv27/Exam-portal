@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(104, 161, 248);
+    padding: 10px;
+}
+
+.hide{
+    display: none;
+}
+
+#sub{    
+    font-size: 30px;
+    border-radius: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+
+#timer{
+    margin: 0px;
+    text-align: center;
+    position: sticky;
+    background-color: rgb(243, 233, 89);
+    float: top;
+    top:0;
+    z-index: 1;
+    font-size: 50px;
+}
+
+.option{
+    margin-right:5px;
+}
+
+.card{
+    padding: 15px;
+}
